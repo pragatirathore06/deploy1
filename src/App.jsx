@@ -12,7 +12,7 @@ function App() {
         <div className="w-80 p-8 bg-white text-center rounded-lg shadow-lg relative">
           <div className="flex items-center justify-center mb-4">
             <img
-              src="/src/image/logo.jpeg"
+              src="/image/logo.jpeg"
               alt="Logo"
               className="w-12 h-12 object-cover rounded-full shadow-lg mr-3"
             />
@@ -42,7 +42,7 @@ function App() {
           <div className="w-60 h-36 p-4 bg-white text-black rounded-lg shadow-lg absolute top-38 left-40">
             <div className="flex items-center mb-2">
               <img
-                src="/src/image/A.png"
+                src="/image/A.png"
                 alt="Logo"
                 className="w-12 h-12 object-cover rounded-full shadow-lg mr-3"
               />
@@ -50,7 +50,7 @@ function App() {
                 <div className="flex items-center">
                   {/* Image just before 14% */}
                   <img
-                    src="/src/image/arr.png"
+                    src="/image/arr.png"
                     alt="Logo"
                     className="w-4 h-4 object-cover rounded-full shadow-lg mr-2" // Adjusted margin
                   />
@@ -109,7 +109,7 @@ function App() {
 
       {/* Bottom-Left Image */}
       <img
-        src="/src/image/logo.png"
+        src="/image/logo.png"
         alt="Background"
         className="absolute bottom-0 left-0 w-40 h-40 opacity-50 hidden lg:block"
       />
